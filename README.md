@@ -10,3 +10,4 @@ Projetos Educacionais: Exercícios e desafios que fiz para aprimorar minhas habi
 Tecnologias Utilizadas:
 - HTML5
 - CSS3
+- JavaScript
