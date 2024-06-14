@@ -1,5 +1,5 @@
-# Projetos-HTML-CSS
-Projetos de HTML e CSS
+# Projetos-HTML-CSS-JavaScript
+Projetos de HTML, CSS e JavaScript
 Bem-vindo ao repositório onde compartilho meus projetos desenvolvidos com HTML e CSS! Este repositório é um espaço dedicado para mostrar minhas habilidades e criatividade em construção de interfaces web.
 
 O que você encontrará aqui:
